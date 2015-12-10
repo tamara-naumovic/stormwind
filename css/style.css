@@ -1,0 +1,126 @@
+* {margin: 0; padding: 0; outline: 0;}
+html {
+  height: 100%;
+  margin: 0px;
+}
+
+body{
+  position: relative;
+  margin: 0px;
+  padding-bottom: 5rem;
+  min-height: 100%;
+  padding-top: 0px;
+  font-family: arial;
+  font-size: 12px;
+  /*padding-bottom: 20px;*/
+}
+
+
+
+
+h1, h2,h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	margin:0 0 15px 0;
+	text-align: center;
+}
+
+
+h1 {
+	font-size: 36px;
+	letter-spacing: -1px;
+	line-height: 100%;
+}
+
+
+h2 {
+	font-size: 24px;
+}
+
+
+.clear {
+	clear: both;
+}
+
+
+
+.section {
+	
+	z-index: 10;
+	position: relative;
+	margin: 0 auto;
+
+}
+
+.inner {
+	
+	margin: 0 auto;
+	position: relative;
+	min-height: 50px;
+	padding:30px 0;
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+.inner:after {
+	  content: "";
+	  display: table;
+	  clear: both;
+}
+
+
+
+.active {
+	background: #25aae1;
+}
+.end {
+	margin: 0;
+}
+
+
+
+
+/* SECTIONS  background:#184764;*/
+
+
+.s1 {
+	background-image:url(http://hdwyn.com/wallpaper_3840x2160/jar_pendant_ribbon_shape_love_ultra_3840x2160_hd-wallpaper-42899.jpg) ;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	color:#fff;
+
+	
+}
+
+.inner p{
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+} 
+/*#2D4F57*/
+
+.s2 {
+	background:  #FDF5B4;
+	color: white;
+}
+.s2 a {
+	color: #fff;
+}
+
+.s3 {
+	background: #B5BE6F;
+	color: white;
+}
+ 
+ #prva{
+ 	width: 200px;
+ }
+#druga{
+ 	width: 200px;
+ }
+
+
+
+
+
+
